@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Nikolai.
 
-<!--
-**qhak/qhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build SaaS products, AI-powered applications and tools for the web. I'm interested in backend systems, automation and turning ideas into working software.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [CutRank](https://github.com/qhak/cutrank)
+
+Physique analysis, strength tracking and training guidance.
+
+_Web application · AI integration_
+
+### [ModHorizon](https://github.com/qhak/modhorizon)
+
+AI-assisted generation workflows for Minecraft plugins, mods and other game assets.
+
+_TypeScript · AI code generation_
+
+### [Lucid Analytics](https://github.com/qhak/lucid)
+
+Self-hosted web analytics built with Cloudflare Workers and D1.
+
+_JavaScript · Cloudflare Workers · D1_
+
+---
+
+## Technical interests
+
+Backend development · AI integrations · API design · SaaS architecture · Analytics
+
