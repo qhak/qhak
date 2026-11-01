@@ -1,5 +1,4 @@
 ![github.com/qhak](./github-profile-qhak-typing-dark.gif)
-
 # Hey, I'm Nikolai.
 
 I build SaaS products, AI-powered applications and tools for the web. I'm interested in backend systems, automation and turning ideas into working software.
