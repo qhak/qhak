@@ -28,3 +28,4 @@ _JavaScript · Cloudflare Workers · D1_
 
 Backend development · AI integrations · API design · SaaS architecture · Analytics
 
+![Quiet horizon](./assets/qhak-ambient.gif)
