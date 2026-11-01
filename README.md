@@ -27,3 +27,4 @@ _JavaScript · Cloudflare Workers · D1_
 ## Technical interests
 
 Backend development · AI integrations · API design · SaaS architecture · Analytics
+![Quiet horizon](./qhak-ambient.gif)
