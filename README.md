@@ -21,11 +21,11 @@ _TypeScript · AI code generation_
 Self-hosted web analytics built with Cloudflare Workers and D1.
 
 _JavaScript · Cloudflare Workers · D1_
-
+![Animated slider from Light to Ultra](./effort-slider.gif)
 ---
 
 ## Technical interests
 
 Backend development · AI integrations · API design · SaaS architecture · Analytics
 
-![Animated slider from Light to Ultra](./effort-slider.gif)
+
