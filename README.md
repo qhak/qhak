@@ -28,4 +28,4 @@ _JavaScript · Cloudflare Workers · D1_
 
 Backend development · AI integrations · API design · SaaS architecture · Analytics
 
-![Dark swordsman](./qhak-dark-swordsman.gif)
+![Red sword](./qhak-red-sword-loop.gif)
