@@ -1,32 +1,35 @@
 ![github.com/qhak](./github-profile-qhak-typing-dark.gif)
+
 # Hey, I'm Nikolai.
 
-I build SaaS products, AI-powered applications and tools for the web. I'm interested in backend systems, automation and turning ideas into working software.
+I build software that turns ideas into useful tools: SaaS products, AI-powered applications, and the systems that keep them running.
 
-## Selected projects
+## Things I've built
 
 ### [CutRank](https://github.com/qhak/cutrank)
 
-Physique analysis, strength tracking and training guidance.
+Physique analysis, strength tracking, and practical training guidance.
 
-_Web application · AI integration_
+*Web application · AI integration*
 
 ### [ModHorizon](https://github.com/qhak/modhorizon)
 
-AI-assisted generation workflows for Minecraft plugins, mods and other game assets.
+AI-assisted workflows for creating Minecraft plugins, mods, and other game assets.
 
-_TypeScript · AI code generation_
+*TypeScript · AI code generation*
 
 ### [Lucid Analytics](https://github.com/qhak/lucid)
 
-Self-hosted web analytics built with Cloudflare Workers and D1.
+Self-hosted web analytics, built on Cloudflare Workers and D1.
 
-_JavaScript · Cloudflare Workers · D1_
+*JavaScript · Cloudflare Workers · D1*
 
 ![Animated slider from Light to Ultra](./effort-slider.gif)
+
 ---
 
-## Technical interests
+## What I'm interested in
 
-Backend development · AI integrations · API design · SaaS architecture · Analytics
+Backend systems · AI integrations · API design · SaaS architecture · Analytics
+
 ![Wind banner](./qhak-wind-banner.gif)
