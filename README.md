@@ -1,15 +1,12 @@
-![github.com/qhak](./github-profile-qhak-typing-dark.gif)
-
 ## About me
 
-I build websites, SaaS products, and developer tools.
+I build websites and developer tools.
 
-Mostly working with TypeScript, Next.js, React, Supabase, and Cloudflare Workers.
+### Stack
 
-Interested in backend development, AI, automation, and infrastructure.
-
-Always experimenting with new technologies and building things in my free time.
-
-![Animated slider from Light to Ultra](./effort-slider.gif)
-
--
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Cloudflare Workers (Paid), Node.js
+- **Database:** Supabase, Cloudflare D1
+- **AI:** Claude Pro, ChatGPT Plus
+- **Tools:** Git, GitHub, Docker, VS Code
+- **Hosting:** Cloudflare
